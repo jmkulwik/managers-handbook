@@ -67,3 +67,8 @@ Sometimes, when I get feedback and other ideas, I do shift the plan – usually 
 ### Why does this process work?
 
 This is just the start, and first impressions matter. You’ve demonstrated positive communication patterns, you’ve spent time listening, and you have solved a real problem that your team really cares about. Keep doing this! Build a pattern of low ego solutions to real problems. Your team will appreciate it. And, when it comes time to fix that big problem you noticed on day 1, not only will your team be much more willing to trust you, but you will also be much more likely to solve it in a way that works well for them.
+
+Happy Managing!
+Jessica Kulwik
+
+*Copyright: All rights reserved*
