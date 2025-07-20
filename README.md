@@ -2,7 +2,7 @@
 
 Welcome!
 
-Whether are wondering how to manage or looking for new ideas for your team, you have come to the right place. I post ideas and learnings regularly about how to be a frontline engineering manager.
+Whether you are wondering how to manage or looking for new ideas for your team, you have come to the right place. I post ideas and learnings regularly about how to be a frontline engineering manager.
 
 Here's my latest articles:
 
