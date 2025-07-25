@@ -34,7 +34,7 @@ Now fill in the rungs between. For the sake of this article, I’m going to assu
 
 There are a lot of places you can go to start getting ideas for your job matrix. Here are some of my favorites:
 
-**Existing Job Matrices:** I was at Code.org when our original job matrix was rolled out, and I was one of the maintainers for some years. You can find the engineering version of the matrix on the Code.org GitHub. That one’s based on a few, including the original Rent the Runway matrix. You can also find dozens over at progression.fyi. Some of these even have licenses that let you copy them verbatim.
+**Existing Job Matrices:** I was at Code.org when our original job matrix was rolled out, and I was one of the maintainers for some years. You can find the engineering version of the matrix on the [Code.org GitHub](https://github.com/code-dot-org/engineering-culture/blob/master/engineer-growth-matrix.md). That one’s based on a few, including the original [Rent the Runway](https://dresscode.renttherunway.com/blog/ladder) matrix. You can also find dozens over at [progression.fyi](https://progression.fyi/). Some of these even have licenses that let you copy them verbatim.
 
 **Open Roles in the Industry:** These give you an idea of responsibilities at the various levels. If you’re struggling to fill in the “Senior Engineer” matrix, read up on several “Senior Engineer” job descriptions to start getting ideas. The best spot to start is your own open roles since these will be most applicable to you.
 
