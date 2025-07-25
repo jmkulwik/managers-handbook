@@ -38,11 +38,11 @@ There are a lot of places you can go to start getting ideas for your job matrix.
 
 **Open Roles in the Industry:** These give you an idea of responsibilities at the various levels. If you’re struggling to fill in the “Senior Engineer” matrix, read up on several “Senior Engineer” job descriptions to start getting ideas. The best spot to start is your own open roles since these will be most applicable to you.
 
-**Gen AI:** While by no means should you rely solely on AI, it will help you summarize from across the industry. One tip: don’t start with AI. I found the results in this area to be mediocre while I wanted excellent. It was easier to start with something great but sparse and fill in ideas from the mediocre but verbose output from AI.
+**Gen AI:** While by no means should you rely solely on AI, it will help you summarize from across the industry. One tip: don’t start with AI. I found the results in this area to be mediocre while I wanted excellent. It was easier to start with something great but sparse and then source inspiration from the mediocre but verbose output from AI.
 
 ### Step 3: Customize to your team’s needs
 
-I was building out a job matrix for AI engineers, which was a new role family for us. As I went, I discovered a huge variety across the job market for what an AI engineer’s responsibilities can be. It reminded me of the importance of tailoring the growth matrix to our own company’s needs. This benefits the company – as someone grows, they can contribute more to the projects valuable to the company – and it benefits the individual – there will always be work available that is aligned to their growth path.
+I was building out a job matrix for AI engineers, which was a new role family for us. As I went, I discovered a huge variety across the job market for what an AI engineer’s responsibilities can be. It reminded me of the importance of tailoring the growth matrix to our own company’s needs. This benefits the company since as someone grows, they can contribute more to the projects valuable to the company. More importantly, it benefits the individual since there will always be work available that is aligned to their growth path.
 
 In our case, we needed an AI developer who was more engineer than scientist. They needed to be able to contribute production code and maintain infrastructure in addition to building AI prototypes and training models. I added all this to the matrix, which led to some great growth-oriented conversations.
 
@@ -58,7 +58,7 @@ What do you need in your matrix? Do you need engineers who can talk to customers
 * Cross team collaboration
 * Working with stakeholders
 
-You don’t always need a full ladder for each of these. For example, you may expect the “Engineer 3” in your org to be just as proficient at on-call responsibilities as the “Principal Engineer.” Or, you may have no expectations that engineers think about architecture until they get to “Senior.” That’s healthy. As you start building out the ladders, start grouping responsibilities into categories. This is where you start to get your matrix.
+You don’t always need a full ladder for each of these. For example, you may expect the “Engineer 3” in your org to be just as proficient at on-call responsibilities as the “Principal Engineer.” Or, you may have no expectations that engineers think about architecture until they get to “Senior.” Each attribute doesn't need to go all the way up and down. As you start building out the ladders, start grouping responsibilities into categories. This is where you start to get your matrix.
 
 **Remember team work**
 
@@ -70,7 +70,7 @@ We reward what we measure, so make sure you are measuring what you *want* to rew
 
 ### Step 4 Review, Roll out, and Maintain
 
-It’s best to review the matrix with the people who will be affected by it. If nothing else, they can tell you whether it makes sense and is something they could use. Equally as important, once the matrix is live, keep maintaining it. For example, an early matrix while I was at Code.org had a line item that was something like “recognized contributor across the whole codebase.” This made sense when the team was small, but as the codebase and product set grew, this was no longer feasible. We adjusted the language to keep the spirit of the sentiment – having the knowledge and flexibility to contribute meaningfully anywhere – and published an update. The growth matrix should be a living document. Editing it is a healthy process as your team learns and grows.
+It’s best to review the matrix with the people who will be affected by it. If nothing else, they can tell you whether it makes sense and is something they could use. Equally as important, once the matrix is live, keep maintaining it. For example, an early matrix while I was at Code.org had a line item that was something like “recognized contributor across the whole codebase.” This made sense when the team was small, but as the codebase and product set grew, this was no longer feasible. We adjusted the language to keep the spirit of the sentiment – having the knowledge and flexibility to contribute meaningfully anywhere – and published an update. Your growth matrix should be a living document. Editing it is a healthy process as your team learns and grows.
 
 Now you have your growth matrix. Use it regularly! It will be a great tool for performance conversations, recognition, and will contribute meaningfully to overall team health.
 
